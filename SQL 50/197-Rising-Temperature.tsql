@@ -1,6 +1,0 @@
-/* Write your T-SQL query statement below */
-
-SELECT Today.id
-FROM Weather Today CROSS JOIN Weather Yesterday
-WHERE Today.recordDate = DATEADD(DAY, 1 , Yesterday.recordDate) 
-  AND Today.temperature > Yesterday.temperature;
