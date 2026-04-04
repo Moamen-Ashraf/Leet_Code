@@ -2,6 +2,14 @@
 
 My personal solutions to LeetCode problems, covering a range of topics and difficulty levels.
 
+## 🏅 Badges
+
+<p align="center">
+  <img src="badges/SQL50-badge.png" width="150" />
+  <img src="badges/pandas-badge.png" width="150" />
+  <img src="badges/50Days-badge.png" width="150" />
+</p>
+
 ## 👤 Author
 **Momen Ashraf**
 - LeetCode: [leetcode.com/u/Momen-Ashraf](https://leetcode.com/u/Momen-Ashraf/)
@@ -9,9 +17,10 @@ My personal solutions to LeetCode problems, covering a range of topics and diffi
 - LinkedIn: [linkedin.com/in/momen-ashraf-](https://www.linkedin.com/in/momen-ashraf-)
 
 ## 🛠️ Languages Used
-- C/C++
+- C++
 - Python
 - SQL
+- Pandas
 
 ## 🚀 How It Works
 Solutions are automatically pushed to this repository using the [LeetPush](https://github.com/husamahmud/LeetPush) browser extension.
