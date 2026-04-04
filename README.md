@@ -1,11 +1,22 @@
-# LeetCode
+# LeetCode Solutions 🧠
 
-This repository contains my solutions to LeetCode problems.
+My personal solutions to LeetCode problems, covering a range of topics and difficulty levels.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+## 👤 Author
+**Momen Ashraf**
+- LeetCode: [leetcode.com/u/Momen-Ashraf](https://leetcode.com/u/Momen-Ashraf/)
+- GitHub: [github.com/Momen-Ashraf](https://github.com/Momen-Ashraf)
+- LinkedIn: [linkedin.com/in/momen-ashraf-](https://www.linkedin.com/in/momen-ashraf-)
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+## 🛠️ Languages Used
+- C/C++
+- Python
+- SQL
 
- Happy coding! 🚀
+## 🚀 How It Works
+Solutions are automatically pushed to this repository using the [LeetPush](https://github.com/husamahmud/LeetPush) browser extension.
+
+Happy coding! 🚀
+
+---
+*Powered by [LeetPush](https://github.com/husamahmud/LeetPush) — created by [Tut](https://github.com/TutTrue) & [Hüsam](https://github.com/husamahmud)*
